@@ -1,0 +1,5 @@
+Instructions for Setting UP
+
+1)Make sure about Google Play Services to be installed correctly!
+2)Create a project in google developer console to get an android api key for this project.
+3)Write this api key to place which is written "YOUR_KEY_HERE" in google_maps_api.xml which is in values folder.
